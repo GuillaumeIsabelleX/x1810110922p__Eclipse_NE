@@ -9,6 +9,8 @@
 
 
 ## Developing
+see chart
+![Chart](https://github.com/GuillaumeIsabelleX/x1810110922__Eclipse_N_NodeJS/blob/master/_seshat/chart.png)
 
 
 
